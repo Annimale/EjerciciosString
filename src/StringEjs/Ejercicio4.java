@@ -10,4 +10,18 @@ package StringEjs;
  */
 public class Ejercicio4 {
     
-}
+    public static String cambiarPalabras(String cadena){
+        
+        return cadena.replaceAll("es", "no por");
+        
+    
+        
+    }
+        public static void main(String[] args) {
+        
+            
+            System.out.println(cambiarPalabras(" Es pilila es mejor"));
+    }
+        
+    }
+
