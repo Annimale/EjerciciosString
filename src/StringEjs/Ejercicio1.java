@@ -7,6 +7,20 @@ package StringEjs;
 
 import java.util.Scanner;
 
+//Escribe un programa que solicite tres cadenas de caracteres, una llamada
+//nombre, otra llamada primerApellido y segundoApellido. El programa debe
+//crear una cadena con el nombre completo y después mostrar por pantalla:
+
+//1 el nombre completo con todos los caracteres en minúsculas y luego en
+//  mayúsculas y su longitud
+//2 los dos primeros caracteres de la cadena (solo en el caso de que la
+//  longitud de esta sea de dos o más caracteres)
+//3 los dos últimos caracteres de la cadena (solo en el caso de que la
+//  longitud de esta sea de dos o más caracteres)
+//4 el número de ocurrencias en la cadena del último carácter
+//5 la cadena con todas las ocurrencias del primer carácter en mayúsculas
+//6 la cadena con tres asteriscos por delante y por detrás
+//7 la cadena invertida
 /**
  *
  * @author ivamar

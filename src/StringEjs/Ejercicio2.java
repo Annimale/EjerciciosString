@@ -7,7 +7,12 @@ package StringEjs;
 import java.util.Scanner;
 
 /**
- *
+ 
+ * . Escribe un método que, dado un String, devuelve otro objeto String en el que
+    se cambian todas las vocales minúsculas del original por la letra 'a'. Escribe un
+    programa que permita comprobar el funcionamiento
+
+ * 
  * @author ivamar
  */
 public class Ejercicio2 {

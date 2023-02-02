@@ -5,7 +5,9 @@
 package StringEjs;
 
 /**
- *
+ *Escribe un método que, dada una cadena de caracteres, devuelve la mitad
+inicial de la cadena. Escribe un programa que pruebe el método con las
+cadenas “Hola que tal” y “Adiós”
  * @author ivamar
  */
 public class Ejercicio3 {
